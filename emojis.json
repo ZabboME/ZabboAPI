@@ -1,0 +1,250 @@
+{
+    "emojis": [
+      {
+        "id": 1,
+        "key": "emoji1",
+        "image": "emoji1.png"
+      },
+      {
+        "id": 2,
+        "key": "emoji2",
+        "image": "emoji2.png"
+      },
+      {
+        "id": 3,
+        "key": "emoji3",
+        "image": "emoji3.png"
+      },
+      {
+        "id": 4,
+        "key": "emoji4",
+        "image": "emoji4.png"
+      },
+      {
+        "id": 5,
+        "key": "emoji5",
+        "image": "emoji5.png"
+      },
+      {
+        "id": 6,
+        "key": "emoji6",
+        "image": "emoji6.png"
+      },
+      {
+        "id": 7,
+        "key": "emoji7",
+        "image": "emoji7.png"
+      },
+      {
+        "id": 8,
+        "key": "emoji8",
+        "image": "emoji8.png"
+      },
+      {
+        "id": 9,
+        "key": "emoji9",
+        "image": "emoji9.png"
+      },
+      {
+        "id": 10,
+        "key": "emoji10",
+        "image": "emoji10.png"
+      },
+      {
+        "id": 11,
+        "key": "emoji11",
+        "image": "emoji11.png"
+      },
+      {
+        "id": 12,
+        "key": "emoji12",
+        "image": "emoji12.png"
+      },
+      {
+        "id": 13,
+        "key": "emoji13",
+        "image": "emoji13.png"
+      },
+      {
+        "id": 14,
+        "key": "emoji14",
+        "image": "emoji14.png"
+      },
+      {
+        "id": 15,
+        "key": "emoji15",
+        "image": "emoji15.png"
+      },
+      {
+        "id": 16,
+        "key": "emoji16",
+        "image": "emoji16.png"
+      },
+      {
+        "id": 17,
+        "key": "emoji17",
+        "image": "emoji17.png"
+      },
+      {
+        "id": 18,
+        "key": "emoji18",
+        "image": "emoji18.png"
+      },
+      {
+        "id": 19,
+        "key": "emoji19",
+        "image": "emoji19.png"
+      },
+      {
+        "id": 20,
+        "key": "emoji20",
+        "image": "emoji20.png"
+      },
+      {
+        "id": 21,
+        "key": "emoji21",
+        "image": "emoji21.png"
+      },
+      {
+        "id": 22,
+        "key": "emoji22",
+        "image": "emoji22.png"
+      },
+      {
+        "id": 23,
+        "key": "emoji23",
+        "image": "emoji23.png"
+      },
+      {
+        "id": 24,
+        "key": "emoji24",
+        "image": "emoji24.png"
+      },
+      {
+        "id": 25,
+        "key": "emoji25",
+        "image": "emoji25.png"
+      },
+      {
+        "id": 26,
+        "key": "emoji26",
+        "image": "emoji26.png"
+      },
+      {
+        "id": 27,
+        "key": "emoji27",
+        "image": "emoji27.png"
+      },
+      {
+        "id": 28,
+        "key": "emoji28",
+        "image": "emoji28.png"
+      },
+      {
+        "id": 29,
+        "key": "emoji29",
+        "image": "emoji29.png"
+      },
+      {
+        "id": 30,
+        "key": "emoji30",
+        "image": "emoji30.png"
+      },
+      {
+        "id": 31,
+        "key": "emoji31",
+        "image": "emoji31.png"
+      },
+      {
+        "id": 32,
+        "key": "emoji32",
+        "image": "emoji32.png"
+      },
+      {
+        "id": 33,
+        "key": "emoji33",
+        "image": "emoji33.png"
+      },
+      {
+        "id": 34,
+        "key": "emoji34",
+        "image": "emoji34.png"
+      },
+      {
+        "id": 35,
+        "key": "emoji35",
+        "image": "emoji35.png"
+      },
+      {
+        "id": 36,
+        "key": "emoji36",
+        "image": "emoji36.png"
+      },
+      {
+        "id": 37,
+        "key": "emoji37",
+        "image": "emoji37.png"
+      },
+      {
+        "id": 38,
+        "key": "emoji38",
+        "image": "emoji38.png"
+      },
+      {
+        "id": 39,
+        "key": "emoji39",
+        "image": "emoji39.png"
+      },
+      {
+        "id": 40,
+        "key": "emoji40",
+        "image": "emoji40.png"
+      },
+      {
+        "id": 41,
+        "key": "emoji41",
+        "image": "emoji41.png"
+      },
+      {
+        "id": 42,
+        "key": "emoji42",
+        "image": "emoji42.png"
+      },
+      {
+        "id": 43,
+        "key": "emoji43",
+        "image": "emoji43.png"
+      },
+      {
+        "id": 44,
+        "key": "emoji44",
+        "image": "emoji44.png"
+      },
+      {
+        "id": 45,
+        "key": "emoji45",
+        "image": "emoji45.png"
+      },
+      {
+        "id": 46,
+        "key": "emoji46",
+        "image": "emoji46.png"
+      },
+      {
+        "id": 47,
+        "key": "emoji47",
+        "image": "emoji47.png"
+      },
+      {
+        "id": 48,
+        "key": "emoji48",
+        "image": "emoji48.png"
+      },
+      {
+        "id": 49,
+        "key": "emoji49",
+        "image": "emoji49.png"
+      }
+    ]
+  }
+  
