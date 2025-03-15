@@ -1,5 +1,5 @@
 <?php
-header('Access-Control-Allow-Origin: https://demo.habzone.lol');
+header('Access-Control-Allow-Origin: *');
 
 class Database {
     private $con;

@@ -1,5 +1,5 @@
 <?php
-header('Access-Control-Allow-Origin: https://demo.habzone.lol');
+header('Access-Control-Allow-Origin: *');
 
 function generateRandomString($length = 5) {
     $characters = '0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ';

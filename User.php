@@ -49,7 +49,6 @@ class Queries extends Database {
         else return 0;
     }
     
-
     public function updateBannerBySso($bannerId, $sso){
         $pdo = new Database();
         $query = $pdo->prepare("UPDATE users SET banner_id = :bannerId WHERE auth_ticket = :sso");
