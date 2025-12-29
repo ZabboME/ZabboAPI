@@ -1,0 +1,26 @@
+# Security
+config.php
+
+# Backups and Logs
+*.bak
+*.log
+*.sql
+*.ini
+
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Project specific
+audios/*
+!audios/.gitkeep
+.git/
+.htaccess (if managed separately)
+web.config (if managed separately)
