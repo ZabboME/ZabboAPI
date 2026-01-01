@@ -19,7 +19,7 @@ A high-performance, minimalist, and ultra-secure RCON API for retro-gaming serve
 
 1.  **Clone the Repo**:
     ```bash
-    git clone [https://github.com/groundmanage2022/ZabboAPI-Hardened-Core.git](https://github.com/ZabboME/ZabboAPI.git)
+    git clone [https://github.com/ZabboME/ZabboAPI.git]
     ```
 
 2.  **Configure Credentials**:
